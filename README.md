@@ -1,2 +1,3 @@
 # DBMS-for-Customer-Relationship-Management
 CRM stands for Customer Relationship Management, and it refers to the process of managing and analyzing customer interactions and data throughout the customer lifecycle, with the goal of improving business relationships with customers, customer retention and driving sales growth.
+The CRM system can provide various features such as data analytics and reporting, task management, and automation of various customer-related processes. This system can be helpful for businesses to better understand their customers, analyze customer behavior, and tailor their marketing efforts to target specific customers based on their preferences.
